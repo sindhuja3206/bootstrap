@@ -3,6 +3,7 @@ package com.example.demo.model;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 //jpa
+//crud
 @Entity
 public class Alien {
 
